@@ -1,0 +1,4 @@
+{
+    "command": "rustc dark_magic.rs && ./dark_magic",
+    "working_directory": "/Desktop/VSCode/dark_magic"
+}
